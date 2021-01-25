@@ -1,11 +1,13 @@
 # Temperature prediction
+
 ### Goal:
-* Prediction of valve level of radiator in next 15 minutes.
-* Prediction of temperature measured by sensor in next 15 minutes. 
+Predict:
+* valve level of radiator in next 15 minutes,
+* temperature measured by sensor in next 15 minutes. 
 
 ### Data: 
 Provided by a lecturer. Data collected in an office. Contains:
-*temperature measured by 3 different sensors,
+* temperature measured by 3 different sensors,
 * valve level of radiator,
 * set temperature in a room. 
 
