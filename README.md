@@ -17,6 +17,6 @@ Provided by a lecturer. Data collected in an office. Contains:
 
 ### Results: 
 MAE of predictions: 
-* measured temperature ~ 0.07 %
+* measured temperature ~ 0.07 °C
 * valve level ~ 8.5 %
 
